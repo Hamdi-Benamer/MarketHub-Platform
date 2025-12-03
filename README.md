@@ -1,4 +1,5 @@
-Note: Currently the backened deployment is on pause due to usage limits. Thus meaning it will not function as intended. Feel free to explore the code \n
+Note: Currently the backened deployment is on pause due to usage limits. Thus meaning it will not function as intended. Feel free to explore the code.            
+
 Note: This project was a collaboration between Hamdi and Karim
 
 # MarketHub
